@@ -1,0 +1,89 @@
+[ {
+  "id" : "8669cdc8-f6ef-48da-84a4-e8f4717c5359",
+  "productionOrderId" : "1000012501",
+  "operationId" : 25,
+  "type" : "SCRAP_ALERT",
+  "message" : "Batch BATCH-1000012501-25-1: scrap rate 6.67% exceeds 2% (1 scrap / 15 processed)",
+  "acknowledged" : true,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 43, 838234800 ]
+}, {
+  "id" : "21e76a84-7cda-4ba9-8122-2d54fc541f79",
+  "productionOrderId" : "1000012501",
+  "operationId" : 45,
+  "type" : "SCRAP_ALERT",
+  "message" : "Batch BATCH-1000012501-45-1: scrap rate 7.14% exceeds 2% (1 scrap / 14 processed)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 44, 301527800 ]
+}, {
+  "id" : "20616678-150a-40c6-8331-fe7d011374b8",
+  "productionOrderId" : "1000012502",
+  "operationId" : 20,
+  "type" : "SCRAP_ALERT",
+  "message" : "Batch BATCH-1000012502-20-1: scrap rate 2.83% exceeds 2% (7 scrap / 247 processed)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 45, 153828500 ]
+}, {
+  "id" : "3c9a5d7d-7c4f-4ebc-b974-92770d942638",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 40 actual 9.23h > 2× planned 2.25h (order 1000012502)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 46, 71916400 ]
+}, {
+  "id" : "16117897-65f7-4468-9fec-4950eb2e599d",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 15 actual 10.35h > 2× planned 2.70h (order 1000012503)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 49, 39571000 ]
+}, {
+  "id" : "d3708a61-14d5-4ee0-a07f-784559648002",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 25 actual 9.02h > 2× planned 1.24h (order 1000012505)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 59, 353451500 ]
+}, {
+  "id" : "7676f8e2-a50a-4fc6-a8e1-9eb996064c4d",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 40 actual 11.52h > 2× planned 3.90h (order 1000012505)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 59, 851637700 ]
+}, {
+  "id" : "5d1f965e-967d-4a54-995e-3ea7210fe468",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 40 actual 12.27h > 2× planned 4.50h (order 1000012506)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 5, 296053600 ]
+}, {
+  "id" : "8570133c-9eb5-454c-b8c0-67454e7221c9",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 90 actual 9.60h > 2× planned 1.90h (order 1000012507)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 20, 198422900 ]
+}, {
+  "id" : "2eb0d634-7e77-4e2c-a762-993a76bff6b4",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 50 actual 8.60h > 2× planned 1.20h (order 1000012509)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 34, 52023400 ]
+}, {
+  "id" : "341af8b1-df73-4e05-afb8-a642d1aec109",
+  "productionOrderId" : null,
+  "operationId" : null,
+  "type" : "CYCLE_TIME_ALERT",
+  "message" : "Op 40 actual 11.73h > 2× planned 3.90h (order 1000012510)",
+  "acknowledged" : false,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 42, 796451700 ]
+} ]

@@ -1,0 +1,3211 @@
+[ {
+  "productionOrderId" : "1000012501",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012501-10-1",
+  "goodQuantity" : 995,
+  "scrapQuantity" : 5,
+  "scrapReasonCode" : "LOW_EFFICIENCY",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.5,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 43, 346709200 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012501-15-1",
+  "goodQuantity" : 990,
+  "scrapQuantity" : 5,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.49748743718592,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 43, 494921200 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012501-20-1",
+  "goodQuantity" : 985,
+  "scrapQuantity" : 5,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.4949494949495,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 43, 663758700 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012501-25-1",
+  "goodQuantity" : 14,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 93.33333333333333,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 43, 823657800 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012501-30-1",
+  "goodQuantity" : 14,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 43, 993577600 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012501-40-1",
+  "goodQuantity" : 14,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 44, 139816300 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012501-45-1",
+  "goodQuantity" : 13,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 92.85714285714286,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 44, 286238600 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012501-50-1",
+  "goodQuantity" : 13,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 44, 455911800 ]
+}, {
+  "productionOrderId" : "1000012501",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012501-90-1",
+  "goodQuantity" : 13,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 44, 612754700 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012502-10-1",
+  "goodQuantity" : 248,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.2,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 44, 784548000 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012502-15-1",
+  "goodQuantity" : 247,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.59677419354838,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 44, 969122800 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012502-20-1",
+  "goodQuantity" : 240,
+  "scrapQuantity" : 7,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 97.16599190283401,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 45, 138374400 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012502-25-1",
+  "goodQuantity" : 238,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.16666666666667,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 45, 343732300 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012502-30-1",
+  "goodQuantity" : 238,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 45, 524844600 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012502-40-1",
+  "goodQuantity" : 238,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 46, 4854400 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012502-45-1",
+  "goodQuantity" : 235,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 98.73949579831933,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 46, 964611900 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012502-50-1",
+  "goodQuantity" : 235,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 47, 528589900 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 47, 839538900 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 47, 896944000 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 47, 962284200 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 48, 28777900 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 48, 131753600 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 48, 207821700 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 48, 296980300 ]
+}, {
+  "productionOrderId" : "1000012502",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012502-90-8",
+  "goodQuantity" : 25,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 48, 401980700 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012503-10-1",
+  "goodQuantity" : 498,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.6,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 48, 717020400 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012503-15-1",
+  "goodQuantity" : 496,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.59839357429718,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 49, 1585800 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012503-20-1",
+  "goodQuantity" : 490,
+  "scrapQuantity" : 6,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 98.79032258064517,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 49, 304544600 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012503-25-1",
+  "goodQuantity" : 488,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.59183673469387,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 49, 614741000 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012503-30-1",
+  "goodQuantity" : 488,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 49, 879771000 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012503-40-1",
+  "goodQuantity" : 488,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 50, 147540200 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012503-45-1",
+  "goodQuantity" : 485,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.38524590163934,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 50, 551737400 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012503-50-1",
+  "goodQuantity" : 485,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 50, 847000400 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 51, 340448700 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 51, 466107700 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 51, 580506300 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 51, 777543700 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 51, 898785700 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 67538100 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 192886700 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 346462600 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 457977000 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 583717200 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 724885200 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 849998800 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 52, 943912900 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 53, 42933300 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 53, 129886000 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 53, 256722000 ]
+}, {
+  "productionOrderId" : "1000012503",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012503-90-17",
+  "goodQuantity" : 5,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 53, 406739900 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012504-10-1",
+  "goodQuantity" : 995,
+  "scrapQuantity" : 5,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.5,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 53, 739504100 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012504-15-1",
+  "goodQuantity" : 993,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79899497487436,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 54, 33822700 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012504-20-1",
+  "goodQuantity" : 985,
+  "scrapQuantity" : 8,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.19436052366567,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 54, 328949100 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012504-25-1",
+  "goodQuantity" : 983,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79695431472081,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 54, 569075100 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012504-30-1",
+  "goodQuantity" : 983,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 54, 760709600 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012504-40-1",
+  "goodQuantity" : 983,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 20669000 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012504-45-1",
+  "goodQuantity" : 498,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.6,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 241056500 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012504-45-2",
+  "goodQuantity" : 482,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79296066252587,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 304795200 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012504-50-1",
+  "goodQuantity" : 980,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 466742400 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 671504400 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 736060200 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 793675500 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 858783200 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 924579600 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 55, 992398600 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 55990800 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 124799600 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 184436600 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 253626200 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 314474200 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 386816400 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 474548100 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 549455400 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 636907300 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 723752100 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-17",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 806836100 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-18",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 895113100 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-19",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 56, 978888400 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-20",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 65930600 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-21",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 159543300 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-22",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 250457300 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-23",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 340585800 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-24",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 444643400 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-25",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 541732600 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-26",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 639263200 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-27",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 728680900 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-28",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 826278300 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-29",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 57, 927986200 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-30",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 58, 27964800 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-31",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 58, 136741700 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-32",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 58, 235798500 ]
+}, {
+  "productionOrderId" : "1000012504",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012504-90-33",
+  "goodQuantity" : 20,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 58, 336558000 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012505-10-1",
+  "goodQuantity" : 795,
+  "scrapQuantity" : 5,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.375,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 58, 580596000 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012505-15-1",
+  "goodQuantity" : 793,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.74842767295597,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 58, 824686200 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012505-20-1",
+  "goodQuantity" : 780,
+  "scrapQuantity" : 13,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 98.36065573770492,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 59, 64505500 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012505-25-1",
+  "goodQuantity" : 775,
+  "scrapQuantity" : 5,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.35897435897436,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 59, 304488600 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012505-30-1",
+  "goodQuantity" : 775,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 59, 544726700 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012505-40-1",
+  "goodQuantity" : 775,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 24, 59, 804390100 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012505-45-1",
+  "goodQuantity" : 497,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.4,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 0, 44568500 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012505-45-2",
+  "goodQuantity" : 273,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.27272727272727,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 0, 157745700 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012505-50-1",
+  "goodQuantity" : 770,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 0, 387767000 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 0, 611903400 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 0, 696126200 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 0, 808922200 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 0, 928559000 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 53521500 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 169508300 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 284845100 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 396848000 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 520890000 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 634471000 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 764874700 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 1, 888077800 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 8232100 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 127695800 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 247919400 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 368284500 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-17",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 486345600 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-18",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 618763800 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-19",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 741489400 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-20",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 2, 870696900 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-21",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 3, 4620100 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-22",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 3, 129384700 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-23",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 3, 256599600 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-24",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 3, 381800200 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-25",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 3, 513826100 ]
+}, {
+  "productionOrderId" : "1000012505",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012505-90-26",
+  "goodQuantity" : 20,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 3, 638067500 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012506-10-1",
+  "goodQuantity" : 998,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.8,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 3, 914714200 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012506-15-1",
+  "goodQuantity" : 996,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79959919839679,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 4, 177581000 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012506-20-1",
+  "goodQuantity" : 985,
+  "scrapQuantity" : 11,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 98.89558232931726,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 4, 421625400 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012506-25-1",
+  "goodQuantity" : 982,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.69543147208122,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 4, 696026700 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012506-30-1",
+  "goodQuantity" : 982,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 4, 961995700 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012506-40-1",
+  "goodQuantity" : 982,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 5, 233580000 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012506-45-1",
+  "goodQuantity" : 498,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.6,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 5, 514699800 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012506-45-2",
+  "goodQuantity" : 480,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.5850622406639,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 5, 653947400 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012506-50-1",
+  "goodQuantity" : 978,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 5, 954597100 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 6, 231774600 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 6, 373957400 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 6, 504602300 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 6, 639515100 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 6, 779128700 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 6, 928353700 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 7, 67389400 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 7, 234675900 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 7, 383445900 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 7, 524680800 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 7, 672388600 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 7, 816238200 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 7, 960481600 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 8, 106857300 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 8, 254704100 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 8, 394077200 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-17",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 8, 531325500 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-18",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 8, 687866200 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-19",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 8, 853494800 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-20",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 9, 18875500 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-21",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 9, 176113500 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-22",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 9, 336607800 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-23",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 9, 486956700 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-24",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 9, 639004900 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-25",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 9, 799248300 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-26",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 9, 957516100 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-27",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 10, 116729400 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-28",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 10, 276365600 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-29",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 10, 443647700 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-30",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 10, 612896300 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-31",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 10, 778776000 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-32",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 10, 964729200 ]
+}, {
+  "productionOrderId" : "1000012506",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012506-90-33",
+  "goodQuantity" : 18,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 11, 112694700 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012507-10-1",
+  "goodQuantity" : 997,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.7,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 11, 438039100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012507-15-1",
+  "goodQuantity" : 995,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79939819458376,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 11, 746280000 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012507-20-1",
+  "goodQuantity" : 985,
+  "scrapQuantity" : 10,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 98.99497487437185,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 12, 50709600 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012507-25-1",
+  "goodQuantity" : 982,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.69543147208122,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 12, 335991400 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012507-30-1",
+  "goodQuantity" : 982,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 12, 642550800 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012507-40-1",
+  "goodQuantity" : 982,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 12, 974762300 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012507-45-1",
+  "goodQuantity" : 498,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.6,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 13, 288602800 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012507-45-2",
+  "goodQuantity" : 481,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79253112033194,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 13, 445055100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012507-50-1",
+  "goodQuantity" : 979,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 13, 736231600 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 14, 58742900 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 14, 222550700 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 14, 384833500 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 14, 559008600 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 14, 731966100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 14, 916703100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 15, 96959200 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 15, 266675800 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 15, 414533800 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 15, 591505000 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 15, 761568100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 15, 948226100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 16, 131458100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 16, 314347000 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 16, 511557600 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 16, 698013200 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-17",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 16, 919598900 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-18",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 17, 122594400 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-19",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 17, 311327900 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-20",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 17, 482211600 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-21",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 17, 694374600 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-22",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 17, 878586800 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-23",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 18, 84403800 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-24",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 18, 282800300 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-25",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 18, 480536800 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-26",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 18, 689280300 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-27",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 18, 874334700 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-28",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 19, 69580900 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-29",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 19, 272815200 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-30",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 19, 472561100 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-31",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 19, 672650500 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-32",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 19, 886086200 ]
+}, {
+  "productionOrderId" : "1000012507",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012507-90-33",
+  "goodQuantity" : 19,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 20, 100450500 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012508-10-1",
+  "goodQuantity" : 996,
+  "scrapQuantity" : 4,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.6,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 20, 448238300 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012508-15-1",
+  "goodQuantity" : 994,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79919678714859,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 20, 808878700 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012508-20-1",
+  "goodQuantity" : 985,
+  "scrapQuantity" : 9,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.09456740442656,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 21, 140629400 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012508-25-1",
+  "goodQuantity" : 983,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79695431472081,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 21, 469623300 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012508-30-1",
+  "goodQuantity" : 983,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 21, 796593500 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012508-40-1",
+  "goodQuantity" : 983,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 22, 143813500 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012508-45-1",
+  "goodQuantity" : 498,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.6,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 22, 471432800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012508-45-2",
+  "goodQuantity" : 482,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.79296066252587,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 22, 670320700 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012508-50-1",
+  "goodQuantity" : 980,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 23, 17021500 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 23, 361681500 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 23, 578886300 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 23, 795841800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 24, 21264700 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 24, 228987700 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 24, 446465200 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 24, 666449800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 24, 914344700 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 25, 126821900 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 25, 322151400 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 25, 548235800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 25, 761747800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 25, 986430300 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 26, 216907200 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 26, 431439100 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 26, 650453000 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-17",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 26, 883530200 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-18",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 27, 103889800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-19",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 27, 323892200 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-20",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 27, 562084000 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-21",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 27, 780604100 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-22",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 28, 11619700 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-23",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 28, 247793000 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-24",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 28, 484731100 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-25",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 28, 720924100 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-26",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 28, 953594200 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-27",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 29, 189232700 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-28",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 29, 404561800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-29",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 29, 631688800 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-30",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 29, 841647200 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-31",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 30, 60161200 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-32",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 30, 294362500 ]
+}, {
+  "productionOrderId" : "1000012508",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012508-90-33",
+  "goodQuantity" : 20,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 30, 550732800 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012509-10-1",
+  "goodQuantity" : 748,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.73333333333333,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 30, 920602800 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 15,
+  "batchNumber" : "BATCH-1000012509-15-1",
+  "goodQuantity" : 746,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "EDGE_CHIP",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.73262032085562,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 31, 321266600 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012509-20-1",
+  "goodQuantity" : 735,
+  "scrapQuantity" : 11,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 98.5254691689008,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 31, 717916100 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012509-25-1",
+  "goodQuantity" : 732,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.59183673469387,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 32, 110986400 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012509-30-1",
+  "goodQuantity" : 732,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 32, 500653600 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012509-40-1",
+  "goodQuantity" : 732,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 32, 883748500 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012509-45-1",
+  "goodQuantity" : 497,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.4,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 33, 273613000 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012509-45-2",
+  "goodQuantity" : 231,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.56896551724138,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 33, 537601800 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012509-50-1",
+  "goodQuantity" : 728,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 33, 931041900 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 34, 330137600 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 34, 578825600 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 34, 831017000 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 35, 91593300 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 35, 352751600 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 35, 619154600 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 35, 856519300 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 36, 110487800 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 36, 367787100 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 36, 620686200 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 36, 876225500 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 37, 131502700 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 37, 388896100 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 37, 646679800 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 37, 896206700 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 38, 170544000 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-17",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 38, 431669800 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-18",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 38, 716469400 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-19",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 38, 992520400 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-20",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 39, 264745500 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-21",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 39, 530398800 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-22",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 39, 804657300 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-23",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 40, 81165900 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-24",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 40, 351314200 ]
+}, {
+  "productionOrderId" : "1000012509",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012509-90-25",
+  "goodQuantity" : 8,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 40, 622375600 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 10,
+  "batchNumber" : "BATCH-1000012510-10-1",
+  "goodQuantity" : 797,
+  "scrapQuantity" : 3,
+  "scrapReasonCode" : "CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.625,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 41, 10324200 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 20,
+  "batchNumber" : "BATCH-1000012510-20-1",
+  "goodQuantity" : 785,
+  "scrapQuantity" : 12,
+  "scrapReasonCode" : "CELL_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 98.49435382685068,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 41, 404624500 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 25,
+  "batchNumber" : "BATCH-1000012510-25-1",
+  "goodQuantity" : 783,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "MICRO_CRACK",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.7452229299363,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 41, 840521500 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 30,
+  "batchNumber" : "BATCH-1000012510-30-1",
+  "goodQuantity" : 783,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 42, 254363400 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 40,
+  "batchNumber" : "BATCH-1000012510-40-1",
+  "goodQuantity" : 783,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 42, 668973500 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012510-45-1",
+  "goodQuantity" : 498,
+  "scrapQuantity" : 2,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.6,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 43, 108136400 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 45,
+  "batchNumber" : "BATCH-1000012510-45-2",
+  "goodQuantity" : 282,
+  "scrapQuantity" : 1,
+  "scrapReasonCode" : "LOW_POWER",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 99.64664310954063,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 43, 378863600 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 50,
+  "batchNumber" : "BATCH-1000012510-50-1",
+  "goodQuantity" : 780,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 43, 803756100 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-1",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 44, 214560100 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-2",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 44, 484946000 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-3",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 44, 776916500 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-4",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 45, 56763300 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-5",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 45, 334770300 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-6",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 45, 616882200 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-7",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 45, 915289700 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-8",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 46, 190687200 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-9",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 46, 448716300 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-10",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 46, 685174600 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-11",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 46, 936912300 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-12",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 47, 216791300 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-13",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 47, 495821700 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-14",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 47, 762059100 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-15",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 48, 11374900 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-16",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 48, 297856700 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-17",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 48, 594476600 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-18",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 48, 876031000 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-19",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 49, 161446100 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-20",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 49, 428104200 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-21",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 49, 691493400 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-22",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 49, 966814400 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-23",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 50, 219407100 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-24",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 50, 496576400 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-25",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 50, 763166100 ]
+}, {
+  "productionOrderId" : "1000012510",
+  "operationId" : 90,
+  "batchNumber" : "BATCH-1000012510-90-26",
+  "goodQuantity" : 30,
+  "scrapQuantity" : 0,
+  "scrapReasonCode" : "",
+  "reworkQuantity" : 0,
+  "qualityPassRate" : 100.0,
+  "createdAt" : [ 2026, 4, 19, 11, 25, 51, 72479000 ]
+} ]

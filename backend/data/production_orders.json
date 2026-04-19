@@ -1,0 +1,3096 @@
+[ {
+  "productionOrderId" : "1000012501",
+  "salesOrderId" : "SO-001",
+  "material" : "SOLAR-545W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 5, 13, 12, 54 ],
+  "basicFinishDate" : [ 2026, 5, 20, 17, 0 ],
+  "actualStartDate" : [ 2026, 5, 13, 12, 54 ],
+  "actualFinishDate" : [ 2026, 5, 20, 17, 0 ],
+  "status" : "RELEASED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 5, 13, 12, 54 ],
+    "plannedFinish" : [ 2026, 5, 14, 7, 24 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 3.7,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 2.0,
+    "plannedStart" : [ 2026, 5, 14, 7, 24 ],
+    "plannedFinish" : [ 2026, 5, 14, 11, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 76.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 72.0,
+    "plannedStart" : [ 2026, 5, 14, 11, 6 ],
+    "plannedFinish" : [ 2026, 5, 19, 7, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 5, 19, 7, 6 ],
+    "plannedFinish" : [ 2026, 5, 19, 8, 30 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 5, 19, 8, 30 ],
+    "plannedFinish" : [ 2026, 5, 20, 8, 0 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 5, 20, 8, 0 ],
+    "plannedFinish" : [ 2026, 5, 20, 12, 30 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 5, 20, 12, 30 ],
+    "plannedFinish" : [ 2026, 5, 20, 13, 42 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 5, 20, 13, 42 ],
+    "plannedFinish" : [ 2026, 5, 20, 15, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 5, 20, 15, 6 ],
+    "plannedFinish" : [ 2026, 5, 20, 17, 0 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.5",
+    "componentDescription" : "Mono Cell 21.5% eff",
+    "requiredQuantity" : 146160.0,
+    "reservedQuantity" : 146160.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 293760.0,
+    "reservedQuantity" : 293760.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-BLACK-40MM",
+    "componentDescription" : "Aluminium Frame (Black)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 10326,
+  "delayReason" : null
+}, {
+  "productionOrderId" : "1000012502",
+  "salesOrderId" : "SO-001",
+  "material" : "SOLAR-545W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 5, 18, 7, 31 ],
+  "basicFinishDate" : [ 2026, 5, 20, 17, 0 ],
+  "actualStartDate" : [ 2026, 5, 18, 7, 31 ],
+  "actualFinishDate" : [ 2026, 5, 21, 9, 58 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 4.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 2.0,
+    "plannedStart" : [ 2026, 5, 18, 7, 31 ],
+    "plannedFinish" : [ 2026, 5, 18, 12, 1 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 2.2,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 5, 18, 12, 1 ],
+    "plannedFinish" : [ 2026, 5, 18, 14, 13 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 22.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 18.0,
+    "plannedStart" : [ 2026, 5, 19, 7, 11 ],
+    "plannedFinish" : [ 2026, 5, 20, 13, 11 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 25,
+    "totalHours" : 0.7999999999999999,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.2,
+    "plannedStart" : [ 2026, 5, 20, 13, 11 ],
+    "plannedFinish" : [ 2026, 5, 20, 13, 59 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 30,
+    "totalHours" : 6.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 5, 20, 13, 59 ],
+    "plannedFinish" : [ 2026, 5, 20, 20, 29 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 2.25,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 0.75,
+    "plannedStart" : [ 2026, 5, 20, 20, 29 ],
+    "plannedFinish" : [ 2026, 5, 21, 6, 44 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 0.825,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.125,
+    "plannedStart" : [ 2026, 5, 21, 6, 44 ],
+    "plannedFinish" : [ 2026, 5, 21, 7, 34 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 0.7999999999999999,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.2,
+    "plannedStart" : [ 2026, 5, 21, 7, 34 ],
+    "plannedFinish" : [ 2026, 5, 21, 8, 22 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.6,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.1,
+    "plannedStart" : [ 2026, 5, 21, 8, 22 ],
+    "plannedFinish" : [ 2026, 5, 21, 9, 58 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.5",
+    "componentDescription" : "Mono Cell 21.5% eff",
+    "requiredQuantity" : 36540.0,
+    "reservedQuantity" : 36540.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 251.24999999999997,
+    "reservedQuantity" : 251.24999999999997,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 555.5,
+    "reservedQuantity" : 555.5,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 555.5,
+    "reservedQuantity" : 555.5,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 580.75,
+    "reservedQuantity" : 580.75,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 250.5,
+    "reservedQuantity" : 250.5,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-BLACK-40MM",
+    "componentDescription" : "Aluminium Frame (Black)",
+    "requiredQuantity" : 502.49999999999994,
+    "reservedQuantity" : 502.49999999999994,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 4467,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012503",
+  "salesOrderId" : "SO-005",
+  "material" : "SOLAR-545W-BIFACIAL",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 5, 26, 13, 9 ],
+  "basicFinishDate" : [ 2026, 5, 30, 17, 0 ],
+  "actualStartDate" : [ 2026, 5, 26, 13, 9 ],
+  "actualFinishDate" : [ 2026, 5, 30, 17, 0 ],
+  "status" : "RELEASED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 6.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 4.0,
+    "plannedStart" : [ 2026, 5, 26, 13, 9 ],
+    "plannedFinish" : [ 2026, 5, 26, 19, 39 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 2.7,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 1.0,
+    "plannedStart" : [ 2026, 5, 26, 19, 39 ],
+    "plannedFinish" : [ 2026, 5, 27, 6, 21 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 40.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 36.0,
+    "plannedStart" : [ 2026, 5, 27, 6, 21 ],
+    "plannedFinish" : [ 2026, 5, 29, 14, 21 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.0,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 5, 29, 14, 21 ],
+    "plannedFinish" : [ 2026, 5, 29, 15, 21 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 30,
+    "totalHours" : 11.0,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing (double glass)",
+    "setupHours" : 2.0,
+    "processingHours" : 7.5,
+    "plannedStart" : [ 2026, 5, 29, 15, 21 ],
+    "plannedFinish" : [ 2026, 5, 30, 10, 21 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 40,
+    "totalHours" : 3.0,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 1.5,
+    "plannedStart" : [ 2026, 5, 30, 10, 21 ],
+    "plannedFinish" : [ 2026, 5, 30, 13, 21 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 45,
+    "totalHours" : 0.95,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.25,
+    "plannedStart" : [ 2026, 5, 30, 13, 21 ],
+    "plannedFinish" : [ 2026, 5, 30, 14, 18 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.0,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 5, 30, 14, 18 ],
+    "plannedFinish" : [ 2026, 5, 30, 15, 18 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.7,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.2,
+    "plannedStart" : [ 2026, 5, 30, 15, 18 ],
+    "plannedFinish" : [ 2026, 5, 30, 17, 0 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.5",
+    "componentDescription" : "Mono Cell 21.5% eff",
+    "requiredQuantity" : 73080.0,
+    "reservedQuantity" : 73080.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 146880.0,
+    "reservedQuantity" : 146880.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass (Front)",
+    "requiredQuantity" : 502.49999999999994,
+    "reservedQuantity" : 502.49999999999994,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass (Back)",
+    "requiredQuantity" : 502.49999999999994,
+    "reservedQuantity" : 502.49999999999994,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 1111.0,
+    "reservedQuantity" : 1111.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-CLEAR",
+    "componentDescription" : "EVA Clear Back Sheet",
+    "requiredQuantity" : 1111.0,
+    "reservedQuantity" : 1111.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-CLEAR",
+    "componentDescription" : "Clear Backsheet",
+    "requiredQuantity" : 1161.5,
+    "reservedQuantity" : 1161.5,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 501.0,
+    "reservedQuantity" : 501.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-CLEAR-40MM",
+    "componentDescription" : "Aluminium Frame (Clear)",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 5991,
+  "delayReason" : null
+}, {
+  "productionOrderId" : "1000012504",
+  "salesOrderId" : "SO-010",
+  "material" : "SOLAR-540W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 5, 29, 12, 54 ],
+  "basicFinishDate" : [ 2026, 6, 5, 17, 0 ],
+  "actualStartDate" : [ 2026, 5, 29, 12, 54 ],
+  "actualFinishDate" : [ 2026, 6, 5, 17, 0 ],
+  "status" : "RELEASED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 5, 29, 12, 54 ],
+    "plannedFinish" : [ 2026, 5, 30, 7, 24 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 3.7,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 2.0,
+    "plannedStart" : [ 2026, 5, 30, 7, 24 ],
+    "plannedFinish" : [ 2026, 5, 30, 11, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 76.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 72.0,
+    "plannedStart" : [ 2026, 5, 30, 11, 6 ],
+    "plannedFinish" : [ 2026, 6, 4, 7, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 4, 7, 6 ],
+    "plannedFinish" : [ 2026, 6, 4, 8, 30 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 6, 4, 8, 30 ],
+    "plannedFinish" : [ 2026, 6, 5, 8, 0 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 6, 5, 8, 0 ],
+    "plannedFinish" : [ 2026, 6, 5, 12, 30 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 6, 5, 12, 30 ],
+    "plannedFinish" : [ 2026, 6, 5, 13, 42 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 5, 13, 42 ],
+    "plannedFinish" : [ 2026, 6, 5, 15, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 6, 5, 15, 6 ],
+    "plannedFinish" : [ 2026, 6, 5, 17, 0 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.0",
+    "componentDescription" : "Mono Cell 21.0% eff",
+    "requiredQuantity" : 146160.0,
+    "reservedQuantity" : 146160.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 293760.0,
+    "reservedQuantity" : 293760.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 10326,
+  "delayReason" : null
+}, {
+  "productionOrderId" : "1000012505",
+  "salesOrderId" : "SO-010",
+  "material" : "SOLAR-540W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 5, 30, 16, 48 ],
+  "basicFinishDate" : [ 2026, 6, 5, 17, 0 ],
+  "actualStartDate" : [ 2026, 5, 30, 16, 48 ],
+  "actualFinishDate" : [ 2026, 6, 9, 11, 10 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 8.9,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 6.4,
+    "plannedStart" : [ 2026, 5, 30, 16, 48 ],
+    "plannedFinish" : [ 2026, 5, 31, 9, 42 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 3.3000000000000003,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 1.6,
+    "plannedStart" : [ 2026, 5, 31, 9, 42 ],
+    "plannedFinish" : [ 2026, 5, 31, 13, 0 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 61.599999999999994,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 57.599999999999994,
+    "plannedStart" : [ 2026, 6, 4, 7, 11 ],
+    "plannedFinish" : [ 2026, 6, 7, 20, 47 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.2400000000000002,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.64,
+    "plannedStart" : [ 2026, 6, 7, 20, 47 ],
+    "plannedFinish" : [ 2026, 6, 8, 6, 1 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 13.1,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 9.6,
+    "plannedStart" : [ 2026, 6, 8, 6, 1 ],
+    "plannedFinish" : [ 2026, 6, 8, 19, 7 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 3.9,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 2.4,
+    "plannedStart" : [ 2026, 6, 8, 19, 7 ],
+    "plannedFinish" : [ 2026, 6, 9, 7, 1 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.1,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 6, 9, 7, 1 ],
+    "plannedFinish" : [ 2026, 6, 9, 8, 7 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.2400000000000002,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.64,
+    "plannedStart" : [ 2026, 6, 9, 8, 7 ],
+    "plannedFinish" : [ 2026, 6, 9, 9, 21 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.82,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.32,
+    "plannedStart" : [ 2026, 6, 9, 9, 21 ],
+    "plannedFinish" : [ 2026, 6, 9, 11, 10 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.0",
+    "componentDescription" : "Mono Cell 21.0% eff",
+    "requiredQuantity" : 116927.99999999999,
+    "reservedQuantity" : 116927.99999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 235008.0,
+    "reservedQuantity" : 235008.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 803.9999999999999,
+    "reservedQuantity" : 803.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 1777.6000000000001,
+    "reservedQuantity" : 1777.6000000000001,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 1777.6000000000001,
+    "reservedQuantity" : 1777.6000000000001,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 1858.3999999999999,
+    "reservedQuantity" : 1858.3999999999999,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 801.6,
+    "reservedQuantity" : 801.6,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 1607.9999999999998,
+    "reservedQuantity" : 1607.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 14062,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012506",
+  "salesOrderId" : "SO-002",
+  "material" : "SOLAR-540W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 6, 3, 12, 54 ],
+  "basicFinishDate" : [ 2026, 6, 10, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 3, 12, 54 ],
+  "actualFinishDate" : [ 2026, 6, 14, 10, 46 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 6, 3, 12, 54 ],
+    "plannedFinish" : [ 2026, 6, 4, 7, 24 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 3.7,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 2.0,
+    "plannedStart" : [ 2026, 6, 4, 7, 24 ],
+    "plannedFinish" : [ 2026, 6, 4, 11, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 76.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 72.0,
+    "plannedStart" : [ 2026, 6, 7, 20, 52 ],
+    "plannedFinish" : [ 2026, 6, 12, 16, 52 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 12, 16, 52 ],
+    "plannedFinish" : [ 2026, 6, 12, 18, 16 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 6, 12, 18, 16 ],
+    "plannedFinish" : [ 2026, 6, 13, 17, 46 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 6, 13, 17, 46 ],
+    "plannedFinish" : [ 2026, 6, 14, 6, 16 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 6, 14, 6, 16 ],
+    "plannedFinish" : [ 2026, 6, 14, 7, 28 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 14, 7, 28 ],
+    "plannedFinish" : [ 2026, 6, 14, 8, 52 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 6, 14, 8, 52 ],
+    "plannedFinish" : [ 2026, 6, 14, 10, 46 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.0",
+    "componentDescription" : "Mono Cell 21.0% eff",
+    "requiredQuantity" : 146160.0,
+    "reservedQuantity" : 146160.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 293760.0,
+    "reservedQuantity" : 293760.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 15712,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012507",
+  "salesOrderId" : "SO-002",
+  "material" : "SOLAR-540W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 6, 3, 12, 54 ],
+  "basicFinishDate" : [ 2026, 6, 10, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 4, 7, 29 ],
+  "actualFinishDate" : [ 2026, 6, 19, 6, 51 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 6, 4, 7, 29 ],
+    "plannedFinish" : [ 2026, 6, 4, 17, 59 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 3.7,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 2.0,
+    "plannedStart" : [ 2026, 6, 4, 17, 59 ],
+    "plannedFinish" : [ 2026, 6, 4, 21, 41 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 76.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 72.0,
+    "plannedStart" : [ 2026, 6, 12, 16, 57 ],
+    "plannedFinish" : [ 2026, 6, 17, 12, 57 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 17, 12, 57 ],
+    "plannedFinish" : [ 2026, 6, 17, 14, 21 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 6, 17, 14, 21 ],
+    "plannedFinish" : [ 2026, 6, 18, 13, 51 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 6, 18, 13, 51 ],
+    "plannedFinish" : [ 2026, 6, 18, 18, 21 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 6, 18, 18, 21 ],
+    "plannedFinish" : [ 2026, 6, 18, 19, 33 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 18, 19, 33 ],
+    "plannedFinish" : [ 2026, 6, 18, 20, 57 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 6, 18, 20, 57 ],
+    "plannedFinish" : [ 2026, 6, 19, 6, 51 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.0",
+    "componentDescription" : "Mono Cell 21.0% eff",
+    "requiredQuantity" : 146160.0,
+    "reservedQuantity" : 146160.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 293760.0,
+    "reservedQuantity" : 293760.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 21562,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012508",
+  "salesOrderId" : "SO-006",
+  "material" : "SOLAR-540W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 6, 8, 12, 54 ],
+  "basicFinishDate" : [ 2026, 6, 15, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 8, 12, 54 ],
+  "actualFinishDate" : [ 2026, 6, 23, 18, 56 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 6, 8, 12, 54 ],
+    "plannedFinish" : [ 2026, 6, 9, 7, 24 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 15,
+    "totalHours" : 3.7,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 2.0,
+    "plannedStart" : [ 2026, 6, 9, 7, 24 ],
+    "plannedFinish" : [ 2026, 6, 9, 11, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 76.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 72.0,
+    "plannedStart" : [ 2026, 6, 17, 13, 2 ],
+    "plannedFinish" : [ 2026, 6, 22, 9, 2 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 22, 9, 2 ],
+    "plannedFinish" : [ 2026, 6, 22, 10, 26 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 6, 22, 10, 26 ],
+    "plannedFinish" : [ 2026, 6, 23, 9, 56 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 6, 23, 9, 56 ],
+    "plannedFinish" : [ 2026, 6, 23, 14, 26 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 6, 23, 14, 26 ],
+    "plannedFinish" : [ 2026, 6, 23, 15, 38 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 23, 15, 38 ],
+    "plannedFinish" : [ 2026, 6, 23, 17, 2 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 6, 23, 17, 2 ],
+    "plannedFinish" : [ 2026, 6, 23, 18, 56 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.0",
+    "componentDescription" : "Mono Cell 21.0% eff",
+    "requiredQuantity" : 146160.0,
+    "reservedQuantity" : 146160.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 293760.0,
+    "reservedQuantity" : 293760.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 21962,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012509",
+  "salesOrderId" : "SO-009",
+  "material" : "SOLAR-545W-HC-MONO",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 5, 22, 21, 46 ],
+  "basicFinishDate" : [ 2026, 5, 28, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 9, 7, 29 ],
+  "actualFinishDate" : [ 2026, 6, 27, 8, 39 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 8.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 6.0,
+    "plannedStart" : [ 2026, 6, 9, 7, 29 ],
+    "plannedFinish" : [ 2026, 6, 9, 15, 59 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 10"
+  }, {
+    "operationId" : 15,
+    "totalHours" : 3.2,
+    "workCenter" : "LASER-01",
+    "description" : "Laser Scribing (half‑cut)",
+    "setupHours" : 1.5,
+    "processingHours" : 1.5,
+    "plannedStart" : [ 2026, 6, 9, 15, 59 ],
+    "plannedFinish" : [ 2026, 6, 9, 19, 11 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 15"
+  }, {
+    "operationId" : 20,
+    "totalHours" : 57.99999999999999,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 53.99999999999999,
+    "plannedStart" : [ 2026, 6, 22, 9, 7 ],
+    "plannedFinish" : [ 2026, 6, 25, 19, 7 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.2000000000000002,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.6,
+    "plannedStart" : [ 2026, 6, 25, 19, 7 ],
+    "plannedFinish" : [ 2026, 6, 25, 20, 19 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 12.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 9.0,
+    "plannedStart" : [ 2026, 6, 25, 20, 19 ],
+    "plannedFinish" : [ 2026, 6, 26, 16, 49 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 3.75,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 2.25,
+    "plannedStart" : [ 2026, 6, 26, 16, 49 ],
+    "plannedFinish" : [ 2026, 6, 26, 20, 34 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.075,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.375,
+    "plannedStart" : [ 2026, 6, 26, 20, 34 ],
+    "plannedFinish" : [ 2026, 6, 26, 21, 39 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.2000000000000002,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.6,
+    "plannedStart" : [ 2026, 6, 26, 21, 39 ],
+    "plannedFinish" : [ 2026, 6, 27, 6, 51 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.8,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.3,
+    "plannedStart" : [ 2026, 6, 27, 6, 51 ],
+    "plannedFinish" : [ 2026, 6, 27, 8, 39 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-21.5",
+    "componentDescription" : "Mono Cell 21.5% eff",
+    "requiredQuantity" : 109619.99999999999,
+    "reservedQuantity" : 109619.99999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-DOUBLE",
+    "componentDescription" : "Double Busbar Ribbon",
+    "requiredQuantity" : 220320.0,
+    "reservedQuantity" : 220320.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 753.7499999999999,
+    "reservedQuantity" : 753.7499999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 1666.5000000000002,
+    "reservedQuantity" : 1666.5000000000002,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 1666.5000000000002,
+    "reservedQuantity" : 1666.5000000000002,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 1742.2499999999998,
+    "reservedQuantity" : 1742.2499999999998,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 751.5,
+    "reservedQuantity" : 751.5,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-BLACK-40MM",
+    "componentDescription" : "Aluminium Frame (Black)",
+    "requiredQuantity" : 1507.4999999999998,
+    "reservedQuantity" : 1507.4999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 25990,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012510",
+  "salesOrderId" : "SO-003",
+  "material" : "SOLAR-550W-MONO-FULL",
+  "plannedQuantity" : 0,
+  "basicStartDate" : [ 2026, 5, 21, 16, 54 ],
+  "basicFinishDate" : [ 2026, 5, 25, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 9, 16, 4 ],
+  "actualFinishDate" : [ 2026, 6, 29, 10, 23 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 8.9,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 6.4,
+    "plannedStart" : [ 2026, 6, 9, 16, 4 ],
+    "plannedFinish" : [ 2026, 6, 10, 8, 58 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 10"
+  }, {
+    "operationId" : 20,
+    "totalHours" : 32.8,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 28.799999999999997,
+    "plannedStart" : [ 2026, 6, 25, 19, 12 ],
+    "plannedFinish" : [ 2026, 6, 27, 20, 0 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.2400000000000002,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.64,
+    "plannedStart" : [ 2026, 6, 27, 20, 0 ],
+    "plannedFinish" : [ 2026, 6, 27, 21, 14 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 13.1,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 9.6,
+    "plannedStart" : [ 2026, 6, 27, 21, 14 ],
+    "plannedFinish" : [ 2026, 6, 28, 18, 20 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 3.9,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 2.4,
+    "plannedStart" : [ 2026, 6, 28, 18, 20 ],
+    "plannedFinish" : [ 2026, 6, 29, 6, 14 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.1,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 6, 29, 6, 14 ],
+    "plannedFinish" : [ 2026, 6, 29, 7, 20 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.2400000000000002,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.64,
+    "plannedStart" : [ 2026, 6, 29, 7, 20 ],
+    "plannedFinish" : [ 2026, 6, 29, 8, 34 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.82,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.32,
+    "plannedStart" : [ 2026, 6, 29, 8, 34 ],
+    "plannedFinish" : [ 2026, 6, 29, 10, 23 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-22.0",
+    "componentDescription" : "Mono Cell 22.0% eff",
+    "requiredQuantity" : 58463.99999999999,
+    "reservedQuantity" : 58463.99999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 117504.0,
+    "reservedQuantity" : 117504.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 803.9999999999999,
+    "reservedQuantity" : 803.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 1777.6000000000001,
+    "reservedQuantity" : 1777.6000000000001,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 1777.6000000000001,
+    "reservedQuantity" : 1777.6000000000001,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 1858.3999999999999,
+    "reservedQuantity" : 1858.3999999999999,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 801.6,
+    "reservedQuantity" : 801.6,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-BLACK-40MM",
+    "componentDescription" : "Aluminium Frame (Black)",
+    "requiredQuantity" : 1607.9999999999998,
+    "reservedQuantity" : 1607.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 28459,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012511",
+  "salesOrderId" : "SO-007",
+  "material" : "SOLAR-550W-MONO-FULL",
+  "plannedQuantity" : 1000,
+  "basicStartDate" : [ 2026, 6, 15, 20, 36 ],
+  "basicFinishDate" : [ 2026, 6, 20, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 15, 20, 36 ],
+  "actualFinishDate" : [ 2026, 7, 1, 21, 59 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 6, 15, 20, 36 ],
+    "plannedFinish" : [ 2026, 6, 16, 15, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 40.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 36.0,
+    "plannedStart" : [ 2026, 6, 27, 20, 5 ],
+    "plannedFinish" : [ 2026, 6, 30, 12, 5 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 6, 30, 12, 5 ],
+    "plannedFinish" : [ 2026, 6, 30, 13, 29 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 6, 30, 13, 29 ],
+    "plannedFinish" : [ 2026, 7, 1, 12, 59 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 7, 1, 12, 59 ],
+    "plannedFinish" : [ 2026, 7, 1, 17, 29 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 7, 1, 17, 29 ],
+    "plannedFinish" : [ 2026, 7, 1, 18, 41 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 1, 18, 41 ],
+    "plannedFinish" : [ 2026, 7, 1, 20, 5 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 1, 20, 5 ],
+    "plannedFinish" : [ 2026, 7, 1, 21, 59 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-22.0",
+    "componentDescription" : "Mono Cell 22.0% eff",
+    "requiredQuantity" : 73080.0,
+    "reservedQuantity" : 73080.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 146880.0,
+    "reservedQuantity" : 146880.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-BLACK-40MM",
+    "componentDescription" : "Aluminium Frame (Black)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 23123,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012512",
+  "salesOrderId" : "SO-007",
+  "material" : "SOLAR-550W-MONO-FULL",
+  "plannedQuantity" : 500,
+  "basicStartDate" : [ 2026, 6, 17, 19, 21 ],
+  "basicFinishDate" : [ 2026, 6, 20, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 17, 19, 21 ],
+  "actualFinishDate" : [ 2026, 7, 2, 19, 19 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 6.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 4.0,
+    "plannedStart" : [ 2026, 6, 17, 19, 21 ],
+    "plannedFinish" : [ 2026, 6, 18, 9, 51 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 22.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 18.0,
+    "plannedStart" : [ 2026, 6, 30, 12, 10 ],
+    "plannedFinish" : [ 2026, 7, 1, 18, 10 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.0,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 1, 18, 10 ],
+    "plannedFinish" : [ 2026, 7, 1, 19, 10 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 9.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 6.0,
+    "plannedStart" : [ 2026, 7, 1, 19, 10 ],
+    "plannedFinish" : [ 2026, 7, 2, 12, 40 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 3.0,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 1.5,
+    "plannedStart" : [ 2026, 7, 2, 12, 40 ],
+    "plannedFinish" : [ 2026, 7, 2, 15, 40 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 0.95,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.25,
+    "plannedStart" : [ 2026, 7, 2, 15, 40 ],
+    "plannedFinish" : [ 2026, 7, 2, 16, 37 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.0,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 2, 16, 37 ],
+    "plannedFinish" : [ 2026, 7, 2, 17, 37 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.7,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.2,
+    "plannedStart" : [ 2026, 7, 2, 17, 37 ],
+    "plannedFinish" : [ 2026, 7, 2, 19, 19 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-MONO-22.0",
+    "componentDescription" : "Mono Cell 22.0% eff",
+    "requiredQuantity" : 36540.0,
+    "reservedQuantity" : 36540.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 502.49999999999994,
+    "reservedQuantity" : 502.49999999999994,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 1111.0,
+    "reservedQuantity" : 1111.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 1111.0,
+    "reservedQuantity" : 1111.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 1161.5,
+    "reservedQuantity" : 1161.5,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 501.0,
+    "reservedQuantity" : 501.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-BLACK-40MM",
+    "componentDescription" : "Aluminium Frame (Black)",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 21598,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012513",
+  "salesOrderId" : "SO-004",
+  "material" : "SOLAR-530W-POLY-FULL",
+  "plannedQuantity" : 1000,
+  "basicStartDate" : [ 2026, 6, 26, 20, 36 ],
+  "basicFinishDate" : [ 2026, 7, 1, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 26, 20, 36 ],
+  "actualFinishDate" : [ 2026, 7, 5, 20, 9 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 6, 26, 20, 36 ],
+    "plannedFinish" : [ 2026, 6, 27, 15, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 40.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 36.0,
+    "plannedStart" : [ 2026, 7, 1, 18, 15 ],
+    "plannedFinish" : [ 2026, 7, 4, 10, 15 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 4, 10, 15 ],
+    "plannedFinish" : [ 2026, 7, 4, 11, 39 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 7, 4, 11, 39 ],
+    "plannedFinish" : [ 2026, 7, 5, 11, 9 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 7, 5, 11, 9 ],
+    "plannedFinish" : [ 2026, 7, 5, 15, 39 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 7, 5, 15, 39 ],
+    "plannedFinish" : [ 2026, 7, 5, 16, 51 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 5, 16, 51 ],
+    "plannedFinish" : [ 2026, 7, 5, 18, 15 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 5, 18, 15 ],
+    "plannedFinish" : [ 2026, 7, 5, 20, 9 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-POLY-18.5",
+    "componentDescription" : "Poly Cell 18.5% eff",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 146880.0,
+    "reservedQuantity" : 146880.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 12933,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012514",
+  "salesOrderId" : "SO-004",
+  "material" : "SOLAR-530W-POLY-FULL",
+  "plannedQuantity" : 1000,
+  "basicStartDate" : [ 2026, 6, 26, 20, 36 ],
+  "basicFinishDate" : [ 2026, 7, 1, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 27, 15, 11 ],
+  "actualFinishDate" : [ 2026, 7, 8, 12, 14 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 6, 27, 15, 11 ],
+    "plannedFinish" : [ 2026, 6, 28, 9, 41 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 40.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 36.0,
+    "plannedStart" : [ 2026, 7, 4, 10, 20 ],
+    "plannedFinish" : [ 2026, 7, 6, 18, 20 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 6, 18, 20 ],
+    "plannedFinish" : [ 2026, 7, 6, 19, 44 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 7, 6, 19, 44 ],
+    "plannedFinish" : [ 2026, 7, 7, 19, 14 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 7, 7, 19, 14 ],
+    "plannedFinish" : [ 2026, 7, 8, 7, 44 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 7, 8, 7, 44 ],
+    "plannedFinish" : [ 2026, 7, 8, 8, 56 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 8, 8, 56 ],
+    "plannedFinish" : [ 2026, 7, 8, 10, 20 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 8, 10, 20 ],
+    "plannedFinish" : [ 2026, 7, 8, 12, 14 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-POLY-18.5",
+    "componentDescription" : "Poly Cell 18.5% eff",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 146880.0,
+    "reservedQuantity" : 146880.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 15663,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012515",
+  "salesOrderId" : "SO-004",
+  "material" : "SOLAR-530W-POLY-FULL",
+  "plannedQuantity" : 1000,
+  "basicStartDate" : [ 2026, 6, 26, 20, 36 ],
+  "basicFinishDate" : [ 2026, 7, 1, 17, 0 ],
+  "actualStartDate" : [ 2026, 6, 28, 9, 46 ],
+  "actualFinishDate" : [ 2026, 7, 10, 20, 19 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 6, 28, 9, 46 ],
+    "plannedFinish" : [ 2026, 6, 28, 20, 16 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 40.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 36.0,
+    "plannedStart" : [ 2026, 7, 6, 18, 25 ],
+    "plannedFinish" : [ 2026, 7, 9, 10, 25 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 9, 10, 25 ],
+    "plannedFinish" : [ 2026, 7, 9, 11, 49 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 7, 9, 11, 49 ],
+    "plannedFinish" : [ 2026, 7, 10, 11, 19 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 7, 10, 11, 19 ],
+    "plannedFinish" : [ 2026, 7, 10, 15, 49 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 7, 10, 15, 49 ],
+    "plannedFinish" : [ 2026, 7, 10, 17, 1 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 10, 17, 1 ],
+    "plannedFinish" : [ 2026, 7, 10, 18, 25 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 10, 18, 25 ],
+    "plannedFinish" : [ 2026, 7, 10, 20, 19 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-POLY-18.5",
+    "componentDescription" : "Poly Cell 18.5% eff",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 146880.0,
+    "reservedQuantity" : 146880.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 17913,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012516",
+  "salesOrderId" : "SO-008",
+  "material" : "SOLAR-530W-POLY-FULL",
+  "plannedQuantity" : 1000,
+  "basicStartDate" : [ 2026, 7, 5, 20, 36 ],
+  "basicFinishDate" : [ 2026, 7, 10, 17, 0 ],
+  "actualStartDate" : [ 2026, 7, 5, 20, 36 ],
+  "actualFinishDate" : [ 2026, 7, 13, 12, 24 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 7, 5, 20, 36 ],
+    "plannedFinish" : [ 2026, 7, 6, 15, 6 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 40.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 36.0,
+    "plannedStart" : [ 2026, 7, 9, 10, 30 ],
+    "plannedFinish" : [ 2026, 7, 11, 18, 30 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 11, 18, 30 ],
+    "plannedFinish" : [ 2026, 7, 11, 19, 54 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 7, 11, 19, 54 ],
+    "plannedFinish" : [ 2026, 7, 12, 19, 24 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 7, 12, 19, 24 ],
+    "plannedFinish" : [ 2026, 7, 13, 7, 54 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 7, 13, 7, 54 ],
+    "plannedFinish" : [ 2026, 7, 13, 9, 6 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 13, 9, 6 ],
+    "plannedFinish" : [ 2026, 7, 13, 10, 30 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 13, 10, 30 ],
+    "plannedFinish" : [ 2026, 7, 13, 12, 24 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-POLY-18.5",
+    "componentDescription" : "Poly Cell 18.5% eff",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 146880.0,
+    "reservedQuantity" : 146880.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 11028,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012517",
+  "salesOrderId" : "SO-008",
+  "material" : "SOLAR-530W-POLY-FULL",
+  "plannedQuantity" : 1000,
+  "basicStartDate" : [ 2026, 7, 5, 20, 36 ],
+  "basicFinishDate" : [ 2026, 7, 10, 17, 0 ],
+  "actualStartDate" : [ 2026, 7, 6, 15, 11 ],
+  "actualFinishDate" : [ 2026, 7, 15, 20, 29 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 10.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 8.0,
+    "plannedStart" : [ 2026, 7, 6, 15, 11 ],
+    "plannedFinish" : [ 2026, 7, 7, 9, 41 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 40.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 36.0,
+    "plannedStart" : [ 2026, 7, 11, 18, 35 ],
+    "plannedFinish" : [ 2026, 7, 14, 10, 35 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 14, 10, 35 ],
+    "plannedFinish" : [ 2026, 7, 14, 11, 59 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 15.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 12.0,
+    "plannedStart" : [ 2026, 7, 14, 11, 59 ],
+    "plannedFinish" : [ 2026, 7, 15, 11, 29 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 4.5,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 3.0,
+    "plannedStart" : [ 2026, 7, 15, 11, 29 ],
+    "plannedFinish" : [ 2026, 7, 15, 15, 59 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 1.2,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.5,
+    "plannedStart" : [ 2026, 7, 15, 15, 59 ],
+    "plannedFinish" : [ 2026, 7, 15, 17, 11 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.4000000000000001,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.8,
+    "plannedStart" : [ 2026, 7, 15, 17, 11 ],
+    "plannedFinish" : [ 2026, 7, 15, 18, 35 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.9,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 15, 18, 35 ],
+    "plannedFinish" : [ 2026, 7, 15, 20, 29 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-POLY-18.5",
+    "componentDescription" : "Poly Cell 18.5% eff",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 146880.0,
+    "reservedQuantity" : 146880.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 2222.0,
+    "reservedQuantity" : 2222.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 2323.0,
+    "reservedQuantity" : 2323.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 1002.0,
+    "reservedQuantity" : 1002.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 2009.9999999999998,
+    "reservedQuantity" : 2009.9999999999998,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 13278,
+  "delayReason" : "One or more operations delayed"
+}, {
+  "productionOrderId" : "1000012518",
+  "salesOrderId" : "SO-008",
+  "material" : "SOLAR-530W-POLY-FULL",
+  "plannedQuantity" : 500,
+  "basicStartDate" : [ 2026, 7, 7, 19, 21 ],
+  "basicFinishDate" : [ 2026, 7, 10, 17, 0 ],
+  "actualStartDate" : [ 2026, 7, 7, 19, 21 ],
+  "actualFinishDate" : [ 2026, 7, 16, 17, 49 ],
+  "status" : "DELAYED",
+  "operations" : [ {
+    "operationId" : 10,
+    "totalHours" : 6.5,
+    "workCenter" : "CELL-TEST-01",
+    "description" : "Cell Testing & Sorting",
+    "setupHours" : 2.0,
+    "processingHours" : 4.0,
+    "plannedStart" : [ 2026, 7, 7, 19, 21 ],
+    "plannedFinish" : [ 2026, 7, 8, 9, 51 ],
+    "isDelayed" : false,
+    "delayReason" : null
+  }, {
+    "operationId" : 20,
+    "totalHours" : 22.0,
+    "workCenter" : "STRINGER-02",
+    "description" : "Stringing (welding)",
+    "setupHours" : 3.0,
+    "processingHours" : 18.0,
+    "plannedStart" : [ 2026, 7, 14, 10, 40 ],
+    "plannedFinish" : [ 2026, 7, 15, 16, 40 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 20"
+  }, {
+    "operationId" : 25,
+    "totalHours" : 1.0,
+    "workCenter" : "EL-TEST-01",
+    "description" : "Pre‑Lamination EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 15, 16, 40 ],
+    "plannedFinish" : [ 2026, 7, 15, 17, 40 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 25"
+  }, {
+    "operationId" : 30,
+    "totalHours" : 9.5,
+    "workCenter" : "LAMINATOR-03",
+    "description" : "Lamination + Curing",
+    "setupHours" : 2.0,
+    "processingHours" : 6.0,
+    "plannedStart" : [ 2026, 7, 15, 17, 40 ],
+    "plannedFinish" : [ 2026, 7, 16, 11, 10 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 30"
+  }, {
+    "operationId" : 40,
+    "totalHours" : 3.0,
+    "workCenter" : "FRAMING-01",
+    "description" : "Aluminium Framing",
+    "setupHours" : 1.0,
+    "processingHours" : 1.5,
+    "plannedStart" : [ 2026, 7, 16, 11, 10 ],
+    "plannedFinish" : [ 2026, 7, 16, 14, 10 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 40"
+  }, {
+    "operationId" : 45,
+    "totalHours" : 0.95,
+    "workCenter" : "FLASH-TEST-01",
+    "description" : "Flash Test (Performance)",
+    "setupHours" : 0.5,
+    "processingHours" : 0.25,
+    "plannedStart" : [ 2026, 7, 16, 14, 10 ],
+    "plannedFinish" : [ 2026, 7, 16, 15, 7 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 45"
+  }, {
+    "operationId" : 50,
+    "totalHours" : 1.0,
+    "workCenter" : "EL-TEST-02",
+    "description" : "Final EL Test",
+    "setupHours" : 0.5,
+    "processingHours" : 0.4,
+    "plannedStart" : [ 2026, 7, 16, 15, 7 ],
+    "plannedFinish" : [ 2026, 7, 16, 16, 7 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 50"
+  }, {
+    "operationId" : 90,
+    "totalHours" : 1.7,
+    "workCenter" : "PACK-01",
+    "description" : "Packaging & Dispatch",
+    "setupHours" : 1.0,
+    "processingHours" : 0.2,
+    "plannedStart" : [ 2026, 7, 16, 16, 7 ],
+    "plannedFinish" : [ 2026, 7, 16, 17, 49 ],
+    "isDelayed" : true,
+    "delayReason" : "Due date breach at op 90"
+  } ],
+  "components" : [ {
+    "componentCode" : "CELL-POLY-18.5",
+    "componentDescription" : "Poly Cell 18.5% eff",
+    "requiredQuantity" : 36720.0,
+    "reservedQuantity" : 36720.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "RIBBON-SINGLE",
+    "componentDescription" : "Single Busbar Ribbon",
+    "requiredQuantity" : 73440.0,
+    "reservedQuantity" : 73440.0,
+    "unit" : "M",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "GLASS-3.2MM-HST",
+    "componentDescription" : "Tempered Glass",
+    "requiredQuantity" : 502.49999999999994,
+    "reservedQuantity" : 502.49999999999994,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-FRONT-UV",
+    "componentDescription" : "EVA Front Sheet",
+    "requiredQuantity" : 1111.0,
+    "reservedQuantity" : 1111.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "EVA-BACK-WHITE",
+    "componentDescription" : "EVA Back Sheet",
+    "requiredQuantity" : 1111.0,
+    "reservedQuantity" : 1111.0,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "BACKSHEET-WHITE",
+    "componentDescription" : "White Backsheet",
+    "requiredQuantity" : 1161.5,
+    "reservedQuantity" : 1161.5,
+    "unit" : "M²",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "JBOX-IP68-3DIODE",
+    "componentDescription" : "Junction Box",
+    "requiredQuantity" : 501.0,
+    "reservedQuantity" : 501.0,
+    "unit" : "PC",
+    "batch" : null,
+    "withdrawn" : false
+  }, {
+    "componentCode" : "FRAME-SILVER-40MM",
+    "componentDescription" : "Aluminium Frame (Silver)",
+    "requiredQuantity" : 1004.9999999999999,
+    "reservedQuantity" : 1004.9999999999999,
+    "unit" : "SET",
+    "batch" : null,
+    "withdrawn" : false
+  } ],
+  "totalLeadTimeMinutes" : 12868,
+  "delayReason" : "One or more operations delayed"
+} ]
